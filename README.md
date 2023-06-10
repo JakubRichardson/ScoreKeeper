@@ -6,7 +6,7 @@ The application/component was built using plain Vanilla Javascript, and styled u
 ## 🖼️ Project Images
 
 <p align="center">
-    <img src="./images/Winner.png" alt="Player One Wins!" width="600"/>
+    <img src="./images/Winner.png" alt="Player One Wins!" width="470"/>
 </p>
 Player One wins!
 
@@ -14,12 +14,12 @@ Player One wins!
 <summary>See More Images</summary>
 <br>
 <p align="center">
-    <img src="./images/ScoreKeeper.png" alt="The reset ScoreKeeper state." width="=600"/>
+    <img src="./images/ScoreKeeper.png" alt="The reset ScoreKeeper state." width="520"/>
 </p>
 The reset ScoreKeeper state.
 
 <p align="center">
-    <img src="./images/Deuce.png" alt="" width="=600"/>
+    <img src="./images/Deuce.png" alt="" width="470"/>
 </p>
 Player One wins by deuce (win by 2).
 
