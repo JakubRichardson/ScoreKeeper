@@ -33,8 +33,9 @@ To run/open the project simply open the `index.html` file.
 
 ## ⛏️ Built With
 
-- [HTML]() - 
-- [Bulma]() - 
+- [HTML]() -
+- [Javascript]() - 
+- [Bulma](https://bulma.io/) - 
 
 ## ✍️ Author
 
